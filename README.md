@@ -3,11 +3,9 @@
 An Android lightweight network library built on libcurl, designed for simple HTTP communication.
 
 ### Demo of using
-method: ```fun get(path: String, parameters: List<Pair<String, Any?>>? = null, successCallBack: (response: Response) -> Unit = null!!, failCallBack: (response: Response, request: Request) ->Unit = null!!) ```,you can find get demo from Manager.
-
-Simple demo:  
-
-
++ API: ```fun get(path: String, parameters: List<Pair<String, Any?>>? = null, successCallBack: (response: Response) -> Unit = null!!, failCallBack: (response: Response, request: Request) ->Unit = null!!) ```  
++ Demo:
+```
 	 test1.setOnClickListener { view ->
 
             FoolHttp.get("https://www.baidu.com", null, { response ->
@@ -26,6 +24,7 @@ Simple demo:
             });
 
         }
+```
 
 ### framework
 structure![foolhttp.png](foolhttp.png)
