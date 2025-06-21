@@ -8,7 +8,7 @@ An Android lightweight network library built on libcurl, designed for simple HTT
 ```
 	 test1.setOnClickListener { view ->
 
-            FoolHttp.get("https://www.baidu.com", null, { response ->
+            FoolHttp.get("$url", null, { response ->
                 runOnUiThread {
                     codeText.text = "status:" + response.httpStateCode.toString();
                     webview.loadData(response.toString(), "text/html", response.httpEncode);
