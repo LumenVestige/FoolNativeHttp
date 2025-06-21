@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/src/main/cpp/CMakeLists.txt",
+    "/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/src/main/cpp/curl/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/sanyinchen/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/Debug/5l4f4a6a/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/sanyinchen/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/Debug/5l4f4a6a/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-http::@6890427a1f51a3e7e1df": {
+      "artifactName": "native-http",
+      "abi": "x86",
+      "output": "/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/build/intermediates/cxx/Debug/5l4f4a6a/obj/x86/libnative-http.so",
+      "runtimeFiles": []
+    }
+  }
+}

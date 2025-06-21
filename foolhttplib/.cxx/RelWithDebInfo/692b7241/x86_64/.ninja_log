@@ -1,0 +1,6 @@
+# ninja log v5
+286	342	1750513501505470257	/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/build/intermediates/cxx/RelWithDebInfo/692b7241/obj/x86_64/libnative-http.so	615ceac10bcfc13c
+0	284	1750513501450467525	CMakeFiles/native-http.dir/onLoad.cpp.o	302b5199f0e71998
+0	2	0	clean	ac45b1ad2624c0c6
+1	19	1750517880860761883	build.ninja	f0cd4417300587a4
+0	2	0	clean	ac45b1ad2624c0c6

@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-RelWithDebInfo-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "curl",
+					"jsonFile" : "directory-curl-RelWithDebInfo-d4537270e06ac8ce5ebf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "curl"
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "native-http",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "curl_android",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "native-http::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-native-http-RelWithDebInfo-c55dd68a8d3576cc95eb.json",
+					"name" : "native-http",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/RelWithDebInfo/692b7241/arm64-v8a",
+		"source" : "/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

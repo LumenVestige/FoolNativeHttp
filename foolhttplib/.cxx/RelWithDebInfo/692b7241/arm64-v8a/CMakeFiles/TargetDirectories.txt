@@ -1,0 +1,5 @@
+/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/RelWithDebInfo/692b7241/arm64-v8a/CMakeFiles/native-http.dir
+/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/RelWithDebInfo/692b7241/arm64-v8a/CMakeFiles/edit_cache.dir
+/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/RelWithDebInfo/692b7241/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/RelWithDebInfo/692b7241/arm64-v8a/curl/CMakeFiles/edit_cache.dir
+/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/RelWithDebInfo/692b7241/arm64-v8a/curl/CMakeFiles/rebuild_cache.dir

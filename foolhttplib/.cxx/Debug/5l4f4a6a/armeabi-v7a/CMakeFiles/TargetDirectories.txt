@@ -1,0 +1,5 @@
+/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/Debug/5l4f4a6a/armeabi-v7a/CMakeFiles/native-http.dir
+/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/Debug/5l4f4a6a/armeabi-v7a/CMakeFiles/edit_cache.dir
+/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/Debug/5l4f4a6a/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/Debug/5l4f4a6a/armeabi-v7a/curl/CMakeFiles/edit_cache.dir
+/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/Debug/5l4f4a6a/armeabi-v7a/curl/CMakeFiles/rebuild_cache.dir

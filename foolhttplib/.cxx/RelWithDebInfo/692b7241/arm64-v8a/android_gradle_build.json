@@ -1,0 +1,39 @@
+{
+  "buildFiles": [
+    "/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/src/main/cpp/CMakeLists.txt",
+    "/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/src/main/cpp/curl/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/sanyinchen/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/RelWithDebInfo/692b7241/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/sanyinchen/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/RelWithDebInfo/692b7241/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-http::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "native-http",
+      "output": "/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/build/intermediates/cxx/RelWithDebInfo/692b7241/obj/arm64-v8a/libnative-http.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/sanyinchen/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/sanyinchen/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

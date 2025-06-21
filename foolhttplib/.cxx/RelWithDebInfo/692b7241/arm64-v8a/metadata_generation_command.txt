@@ -1,0 +1,18 @@
+                        -H/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/src/main/cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=26
+-DANDROID_PLATFORM=android-26
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=/home/sanyinchen/Android/Sdk/ndk/27.1.12297006
+-DCMAKE_ANDROID_NDK=/home/sanyinchen/Android/Sdk/ndk/27.1.12297006
+-DCMAKE_TOOLCHAIN_FILE=/home/sanyinchen/Android/Sdk/ndk/27.1.12297006/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/sanyinchen/Android/Sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/build/intermediates/cxx/RelWithDebInfo/692b7241/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/build/intermediates/cxx/RelWithDebInfo/692b7241/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-B/mnt/extra/worksapce/github/FoolHttp-master/foolhttplib/.cxx/RelWithDebInfo/692b7241/arm64-v8a
+-GNinja
+                        Build command args: []
+                        Version: 2
