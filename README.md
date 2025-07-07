@@ -30,4 +30,4 @@ An Android lightweight network library built on libcurl, designed for simple HTT
 structure![foolhttp.png](foolhttp.png)
 
 ### preview
-<img src="source/img.png" alt="demo"  height="680">
+<img src="source/img.png" alt="demo"   style="height: 480px;">
